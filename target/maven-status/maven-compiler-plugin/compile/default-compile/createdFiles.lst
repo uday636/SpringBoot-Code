@@ -1,0 +1,9 @@
+com\cube\assessment\bean\Cube.class
+com\cube\assessment\configuration\SwaggerConfiguration.class
+com\cube\assessment\controller\CubeController.class
+com\cube\assessment\dto\CubeDTO.class
+com\cube\assessment\repository\CubeRepository.class
+com\cube\assessment\util\CubeUtil.class
+com\cube\assessment\serviceimpl\CubeServiceImpl.class
+com\cube\assessment\util\Constants.class
+com\cube\assessment\SpringBootAssignment.class
